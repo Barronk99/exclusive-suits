@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Karla&display=swap');
+
+#scroll {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Bitter', sans-serif;
+}
+
+
+.navbar {
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+}
+
+.logo {
+    font-family: 'Bitter', sans-serif;
+    letter-spacing: 4px;
+}
+
+/* 
+article {
+    background-image: url('..images/homebg.jpg');
+}
+*/
+
+#hero-image {
+    height: 700px;
+    width: 100%;
+    background-image: url('https://ae01.alicdn.com/kf/HTB1IIQ9XHZnBKNjSZFhq6A.oXXae/2018-High-Quality-Business-Men-s-Professional-Suits-Men-Women-Blazer-Suits-Hotel-Work-Clothes.jpg_960x960.jpg');
+}
+
+.card1,.card2 {
+    margin-left: 15px;
+    align-content: center;
+}
+
+.card2 {
+    margin-top: 25px;
+}
+
+.card {
+    border: none;
+    margin-left: 30px;
+}
+
+h3 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.readmore {
+    align-content: center;
+}
+
+.sectiontext {
+    padding-top: 10px;
+}
+
+.sales-pitch {
+    margin-top: 50px;
+}
+
+.testimonial-img {
+    border-radius: 50%;
+    width: 35%;
+    height: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.testimonials {
+    text-align: center;
+}
+
+.elon {
+    border-radius: 50%;
+    width: 35%;
+    height: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px; 
+}
+
+
+
